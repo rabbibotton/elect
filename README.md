@@ -1,6 +1,6 @@
 # Example of using CLOG with Ceramic / electron.atom.js
 
-## Insructions in gener for using Ceramic Mac/Windows/Linux
+## Insructions in general for using Ceramic Mac/Windows/Linux
 
 The documentation for ceramic is at:
 http://ceramic.github.io/
